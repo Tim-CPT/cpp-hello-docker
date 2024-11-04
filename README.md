@@ -70,6 +70,6 @@ Sada mozete koristiti API by posjetom na URL `http://localhost:8080` unutar brow
 
 Svaki povratni komentar i doprinos su dobro dosli!
 
-## Prema licenci
+## Prema MIT licenci
 
 [MIT License](LICENSE)
