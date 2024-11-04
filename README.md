@@ -49,7 +49,7 @@ Ovdje je sadrzaj `compose.yml` datoteke:
 ```yaml
 services:
   hello:
-    image: hello
+    image: cpp-hello-docker
     build:
       context: .
       dockerfile: Dockerfile
